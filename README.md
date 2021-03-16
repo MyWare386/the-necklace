@@ -2,7 +2,7 @@
 
 Website of the manga : "The Necklace" by Olan
 
-Note
+_Note_
 --------------
 
 - Not finished yet : drawings must be added
